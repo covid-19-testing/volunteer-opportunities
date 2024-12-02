@@ -1,2 +1,1 @@
-# volunteer-opportunities
 hackerone poc
